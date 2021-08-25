@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vnhtnm19497
+- 👋 Hi, I’m Nam Nhat Vu 
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m currently learning data analysis, data science, machine learning
 
 
 <!---
